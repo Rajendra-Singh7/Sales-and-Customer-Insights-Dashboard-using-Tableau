@@ -32,12 +32,12 @@ To build a user-friendly, interactive Tableau dashboard that helps retail teams 
 ## 📊 Dashboard Snapshots
 
 <p align="center">
-  <img src="./dashboard_ss/sales_dashboard.png" width="700" alt="Sales Dashboard">
+  <img src="./dashboard ss/Sales Dashboard.png" width="700" alt="Sales Dashboard">
   <br><i>Dashboard 1: Sales Performance Overview</i>
 </p>
 
 <p align="center">
-  <img src="./dashboard_ss/customer_dashboard.png" width="700" alt="Customer Dashboard">
+  <img src="./dashboard ss/Customer Dashboard.png" width="700" alt="Customer Dashboard">
   <br><i>Dashboard 2: Customer Insights Dashboard</i>
 </p>
 
