@@ -1,4 +1,4 @@
-# 📊 Retail Sales & Customer Insights Dashboard (2022–2024)
+# 📊 Retail Sales & Customer Insights Dashboard (2020–2023)
 
 An end-to-end Tableau project designed to analyze retail sales and customer data from 2020 to 2023. The dashboards provide dynamic insights into key performance indicators (KPIs), sales trends, product sub-category performance, customer behavior, and order distribution to support business decisions.
 
